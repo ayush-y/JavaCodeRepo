@@ -2,7 +2,7 @@ package org.JavaProblems;
 
 import java.util.Scanner;
 
-public class greatestOfThree {
+ class greatestOfThree {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter three Number's : ");

@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999713fc-d3da-4c26-af3e-c2f6f08fe2c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/greatestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/4 SumOfOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/5 SumOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/6 Lcm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/7 Gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/8 Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/9 ReverseDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProblems/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/2 LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProblems/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/0 Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProblems/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/1 Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProblems/greatestOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProblems/3 greatestOfThree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +44,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Fibonacci.executor": "Run",
+    "Application.Gcd.executor": "Run",
+    "Application.Lcm.executor": "Run",
     "Application.LeapYear.executor": "Run",
+    "Application.Prime.executor": "Debug",
+    "Application.ReverseDigit.executor": "Run",
+    "Application.SumOfDigit.executor": "Run",
+    "Application.SumOfOdd.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.greatestOfThree.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -54,9 +68,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LeapYear">
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProblems.LeapYear" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProblems.Fibonacci" />
       <module name="ProgammingChallangesJava" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProblems.Swap" />
+    <configuration name="Gcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProblems.Gcd" />
       <module name="ProgammingChallangesJava" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +95,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="greatestOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProblems.greatestOfThree" />
+    <configuration name="Lcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProblems.Lcm" />
+      <module name="ProgammingChallangesJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.JavaProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProblems.Prime" />
+      <module name="ProgammingChallangesJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.JavaProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProblems.ReverseDigit" />
       <module name="ProgammingChallangesJava" />
       <extension name="coverage">
         <pattern>
@@ -96,9 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.greatestOfThree" />
-        <item itemvalue="Application.Swap" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.ReverseDigit" />
+        <item itemvalue="Application.Prime" />
+        <item itemvalue="Application.Gcd" />
+        <item itemvalue="Application.Lcm" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +163,7 @@
       <workItem from="1706947983980" duration="74000" />
       <workItem from="1706948066857" duration="13000" />
       <workItem from="1706948090592" duration="4534000" />
-      <workItem from="1706970773901" duration="824000" />
+      <workItem from="1706970773901" duration="9254000" />
     </task>
     <servers />
   </component>
