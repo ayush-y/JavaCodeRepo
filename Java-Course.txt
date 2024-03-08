@@ -1,0 +1,3 @@
+I am writing text in file
+My name is Ayush Yadav
+This is file reader

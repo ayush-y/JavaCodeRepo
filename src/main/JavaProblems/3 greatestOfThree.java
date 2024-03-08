@@ -1,5 +1,3 @@
-package org.JavaProblems;
-
 import java.util.Scanner;
 
  class greatestOfThree {
